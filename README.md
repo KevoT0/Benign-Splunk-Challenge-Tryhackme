@@ -71,8 +71,12 @@ Q8. What is the name of the file that was saved on the host machine from the C2 
 
 Q9. The suspicious file downloaded from the C2 server contained malicious content with the pattern THM{..........}; what is that pattern?
 
-<img src="https://i.imgur.com/1fVbl6w.png" height="80%" width="80%" alt="Benign"/>
+<img src="https://i.imgur.com/BMe0Ar5.png" height="80%" width="80%" alt="Benign"/>
 
 Q10. What is the URL that the infected host connected to?
 
 <img src="https://i.imgur.com/BjjGe4p.png" height="80%" width="80%" alt="Benign"/>
+
+ANSWERS
+
+<img src="https://i.imgur.com/lcHsd0Z.png" height="80%" width="80%" alt="Benign"/>
