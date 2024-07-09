@@ -25,25 +25,13 @@ To get this answer I selected a time range fro the month of march 2022.
 
 <img src="https://i.imgur.com/z2s007q.png" height="80%" width="80%" alt="Benign"/>
 
-Answer
-
-<img src="https://i.imgur.com/D1pDfgz.png" height="80%" width="80%" alt="Benign"/>
-
 Q2. Imposter Alert: There seems to be an imposter account observed in the logs, what is the name of that user?
 
 <img src="https://i.imgur.com/40ZtrR2.png" height="80%" width="80%" alt="Benign"/>
 
-Answer
-
-<img src="https://i.imgur.com/2XGGsbQ.png" height="80%" width="80%" alt="Benign"/>
-
 Q3. Which user from the HR department was observed to be running scheduled tasks?
 
 <img src="https://i.imgur.com/O4jSIcB.png" height="80%" width="80%" alt="Benign"/>
-
-Answer
-
-<img src="https://i.imgur.com/eBHmdv6.png" height="80%" width="80%" alt="Benign"/>
 
 Q4. Which user from the HR department executed a system process (LOLBIN) to download a payload from a file-sharing host.
 
